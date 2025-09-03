@@ -9,7 +9,7 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 📊 Статистика
+## 📊 Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Darth2315&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darth2315&layout=compact&theme=tokyonight)
 
