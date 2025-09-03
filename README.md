@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Alex. I build user interfaces.
 
 ## 🔧 Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
