@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 🔧 Мій стек
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=fff)
+
 <!--
 **Darth2315/Darth2315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
