@@ -13,10 +13,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Darth2315&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darth2315&layout=compact&theme=tokyonight)
 
-## 📫 Контакти
-- Email: yourmail@example.com  
-- LinkedIn: [linkedin.com/in/o-andro](#)
-
 <!--
 **Darth2315/Darth2315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
